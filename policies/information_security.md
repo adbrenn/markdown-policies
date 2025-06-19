@@ -42,7 +42,7 @@ This policy applies to:
 - Multi-factor authentication (MFA) is required for administrative and sensitive systems.
 
 ### 4. **Cryptographic Controls**
-- Encryption must be used to protect data at rest and in transit, following the [Encryption Policy](./encryption_policy.md).
+- Encryption must be used to protect data at rest and in transit, following the [Encryption Policy](./encryption_management.md).
 - Cryptographic key management must follow secure practices and be documented.
 
 ### 5. **Physical and Environmental Security**
