@@ -33,7 +33,7 @@ This policy applies to:
 - Security policies will be reviewed at least annually and updated as needed.
 
 ### 2. **Asset Management**
-- All information assets must be inventoried and classified according to the [Data Classification Policy](./data_classification_policy.md).
+- All information assets must be inventoried and classified according to the [Data Classification Policy](./data_classification.md).
 - Owners must be assigned to all critical assets to ensure accountability.
 
 ### 3. **Access Control**
@@ -50,7 +50,7 @@ This policy applies to:
 - Server rooms, data centers, and other sensitive areas must have appropriate environmental controls (e.g., temperature, fire suppression).
 
 ### 6. **Operations Security**
-- Logging and monitoring must be implemented as described in the [Logging and Monitoring Policy](./logging_and_monitoring_policy.md).
+- Logging and monitoring must be implemented as described in the [Logging and Monitoring Policy](./logging_monitoring.md).
 - Systems must be regularly updated and patched to mitigate known vulnerabilities.
 - Change management processes must be documented and followed for all production changes.
 
@@ -67,7 +67,7 @@ This policy applies to:
 - Incident logs and investigation outcomes must be retained and reviewed.
 
 ### 10. **Business Continuity and Backup**
-- Critical data must be backed up regularly according to the [Data Backup Policy](./data_backup_policy.md).
+- Critical data must be backed up regularly according to the [Data Backup Policy](./data_backup.md).
 - Disaster recovery and business continuity plans must be maintained and tested.
 
 ### 11. **Security Awareness and Training**
