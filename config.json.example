@@ -1,0 +1,17 @@
+{
+  "jira": {
+    "url": "https://your-company.atlassian.net",
+    "email": "your-email@example.com",
+    "api_token": "your-jira-api-token",
+    "project_key": "PROJ",
+    "issue_type": "Task",
+    "labels": ["privacy", "pia", "compliance"],
+    "attach_report_as_comment": true
+  },
+  "panther": {
+    "api_url": "https://your-instance.runpanther.io",
+    "api_token": "your-panther-api-token"
+  }
+}
+
+
